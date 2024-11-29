@@ -1,0 +1,7 @@
+# Ignore specific file
+Sky_BetterMapping_Main.cs
+
+# Ignore directories
+bin/
+obj/
+Properties/
