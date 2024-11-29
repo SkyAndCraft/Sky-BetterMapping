@@ -1,7 +1,11 @@
 # Ignore specific file
 Sky_BetterMapping_Main.cs
+.gitattributes
+Sky-BetterMapping.csproj
+Sky-BetterMapping.sln
 
 # Ignore directories
 bin/
 obj/
 Properties/
+.vs/
