@@ -16,3 +16,5 @@
 ### Ne faites rien de fou.
 ### Vous ne devez pas modifier, copier, redistribuer, publier ou vendre l'un de mes plugins.
 ### Si vous avez des idées pour le plugin, proposez-les ici : [DISCORD](https://discord.gg/9NNqa3HwKx)
+
+![image](https://github.com/user-attachments/assets/67643c88-f598-4f3f-955e-8b9abc1509da)
