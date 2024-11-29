@@ -3,12 +3,14 @@
 ### Sky BetterMapping est un plugin novalife permettant l'importation et l'exportation de décorations depuis le menu de Modkit.
 
 ## 📁• Comment l'installer ?
-### Pour installer le plugin, téléchargez la dernière version ainsi que les dépendances Modkit 2025 et AAmenu ici : [CLIQUE](https://github.com/SkyAndCraft/Sky-BetterMapping/releases)
+### Pour installer le plugin, téléchargez la [dernière version](https://github.com/SkyAndCraft/Sky-BetterMapping/releases) ainsi que les dépendances Modkit 2025 et AAmenu ici : [CLIQUE](https://github.com/SkyAndCraft/Sky-BetterMapping/releases)
 ### Une fois en jeu, dans le menu AAmenu, Administration, Sky-BetterMapping, vous pourrez gérer les décorations importées et exportées.
 
 ## 👨‍💼• Fonctionnement du Plugin BetterMapping
 ### Le but de ce plugin est de faciliter la gestion des mappings de décorations en permettant leur importation et exportation simples et efficaces.
 ### Vous pouvez accéder aux fichier SQL dans le dossier ```Sky-BetterMapping```.
+### Il est possible d'accéder au menu avec /mapping.
+### Il est nécessaire d'être Rang 3 pour accéder au menu.
 
 ## ©️• Modification et Partage
 ### Ne faites rien de fou.
