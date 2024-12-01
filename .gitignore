@@ -8,4 +8,6 @@ Sky-BetterMapping.sln
 bin/
 obj/
 Properties/
-.vs/
+.vs
+.git
+_Obfuscar/
