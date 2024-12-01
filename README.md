@@ -14,6 +14,7 @@
 
 ## ©️• Modification et Partage
 ### Ne faites rien de fou.
+### Des logs de lancement de serveur sont présent, si votre serveur lance mon plugin, seulement moi en sera informé
 ### Vous ne devez pas modifier, copier, redistribuer, publier ou vendre l'un de mes plugins.
 ### Si vous avez des idées pour le plugin, proposez-les ici : [DISCORD](https://discord.gg/9NNqa3HwKx)
 
